@@ -1,7 +1,7 @@
 # 100 Days of Python – Angela Yu
 
 [![Udemy](https://img.shields.io/badge/Udemy-Angela%20Yu's%20100%20Days%20of%20Python-A435F0?&logo=Udemy&logoColor=white)](https://www.udemy.com/course/100-days-of-code/)
-![](https://progress-bar.xyz/74/?scale=100&title=Progress&width=400&prefix=Day-&suffix=&progress_color=9CBF1F)
+![Progress](https://progress-bar.xyz/75/?scale=100&title=Progress&width=400&prefix=Day-&suffix=&progress_color=9CBF1F)
 
 ![Repo Size](https://img.shields.io/github/repo-size/hashorva/100-days-of-Python) ![Code Frequency](https://img.shields.io/github/commit-activity/m/hashorva/100-days-of-Python)
 
@@ -41,35 +41,39 @@ I’m building this as both a **learning archive** and a **public portfolio**.
 
 [![Logs](https://img.shields.io/badge/Previous%20Logs-orange)](daily_logs/)
 ![Last Updated](https://img.shields.io/github/last-commit/hashorva/100-days-of-Python)
+- **Day 75 - Google Trends + Time Series Data**<br>
+  [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_75/main.py)
+  [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_75.md)<br>
+Analyze and compare Google Trends search popularity with real-world time-series data such as Bitcoin prices, Tesla stock prices, and US unemployment rates.<br>
+**Stack used:** Python, Pandas, Matplotlib, time-series analysis, datetime indexes, resampling, NaN handling, Matplotlib Locators
+
+<details><summary>Show all logs</summary>  
+
+
 - **Day 74 - Analyze LEGO Dataset**<br>
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_74/main.py)
   [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_74.md)<br>
-Analyze LEGO datasets with Pandas by aggregating, merging, and visualizing data to answer questions about set size, themes, yearly growth, and complexity over time.<br>
-**Stack used:** Python, Pandas, Matplotlib, Jupyter Notebook or Google Colab, and CSV datasets.
+  Analyze LEGO datasets with Pandas by aggregating, merging, and visualizing data to answer questions about set size, themes, yearly growth, and complexity over time.<br>
+  **Stack used:** Python, Pandas, Matplotlib, Jupyter Notebook or Google Colab, and CSV datasets.
 
-<details><summary>Show all logs</summary>  
 
 - **Day 73 - Data Visualization with Matplotlib**<br>
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_73/main.py)
   [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_73.md)<br>
-Analyze the evolution of programming language popularity over time using StackOverflow data by transforming raw CSV data into a structured time-series format and visualizing trends with line charts.<br>
-**Stack used:** Python with Pandas for data manipulation and transformation, Matplotlib for data visualization, and Jupyter Notebook for exploratory analysis and iterative development of the workflow.
-
+  Analyze the evolution of programming language popularity over time using StackOverflow data by transforming raw CSV data into a structured time-series format and visualizing trends with line charts.<br>
+  **Stack used:** Python with Pandas for data manipulation and transformation, Matplotlib for data visualization, and Jupyter Notebook for exploratory analysis and iterative development of the workflow.
 
 - **Day 72 - Data Exploration with Pandas**<br>
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_72/main.py)
   [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_72.md)<br>
-Analyze post-university salary data using Pandas to evaluate earning potential, risk, and category differences across college majors.<br>
-**Stack used:** Python, Jupyter Notebook, Pandas, CSV dataset (PayScale survey data).
-
-
+  Analyze post-university salary data using Pandas to evaluate earning potential, risk, and category differences across college majors.<br>
+  **Stack used:** Python, Jupyter Notebook, Pandas, CSV dataset (PayScale survey data).
 
 - **Day 71 - Deploy your WebApp**<br>
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_71/main.py)
   [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_71.md)<br>
   Deploy your Flask blog on the public internet using Git/GitHub + Heroku + Gunicorn, and start upgrading the app from a dev setup (SQLite/local) to<br>
   **Stack used:** Flask, Git/GitHub, Heroku, Gunicorn, PostgreSQL
-
 
 - **Day 70 - Git, Github and Version Control**<br>
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_70/main.py)
@@ -159,7 +163,7 @@ Analyze post-university salary data using Pandas to evaluate earning potential, 
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_56/main.py)
   [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_56.md)<br>
   Build a Flask website that renders real HTML templates instead of plain text. Learn how to serve and link static assets (CSS + images) to style the pages properly.<br>
-  **Stack used:** `Python`,` Flask`, `Jinja2` templates, `HTML`, `CSS`. Static assets via Flask `static/` + `url_for`, running locally with `VS Code`/`PyCharm` and a browser.
+  **Stack used:** `Python`,`Flask`, `Jinja2` templates, `HTML`, `CSS`. Static assets via Flask `static/` + `url_for`, running locally with `VS Code`/`PyCharm` and a browser.
 
 - **Day 55 - HTML & URL Parsing in Flask**<br>
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_55/main.py)
