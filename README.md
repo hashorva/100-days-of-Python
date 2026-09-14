@@ -1,7 +1,7 @@
 # 100 Days of Python – Angela Yu
 
 [![Udemy](https://img.shields.io/badge/Udemy-Angela%20Yu's%20100%20Days%20of%20Python-A435F0?&logo=Udemy&logoColor=white)](https://www.udemy.com/course/100-days-of-code/)
-![Progress](https://progress-bar.xyz/75/?scale=100&title=Progress&width=400&prefix=Day-&suffix=&progress_color=9CBF1F)
+![Progress](https://progress-bar.xyz/76/?scale=100&title=Progress&width=400&prefix=Day-&suffix=&progress_color=9CBF1F)
 
 ![Repo Size](https://img.shields.io/github/repo-size/hashorva/100-days-of-Python) ![Code Frequency](https://img.shields.io/github/commit-activity/m/hashorva/100-days-of-Python)
 
@@ -41,13 +41,20 @@ I’m building this as both a **learning archive** and a **public portfolio**.
 
 [![Logs](https://img.shields.io/badge/Previous%20Logs-orange)](daily_logs/)
 ![Last Updated](https://img.shields.io/github/last-commit/hashorva/100-days-of-Python)
+- **Day 76 - Beautiful Plotly Charts & Analysis**<br>
+  [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_76/main.py)
+  [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_76.md)<br>
+Analyse Google Play Store data with Pandas and create interactive charts with Plotly.<br>
+**Stack used:** Python, Pandas, Plotly, Jupyter Notebook.
+
+<details><summary>Show all logs</summary>  
+
 - **Day 75 - Google Trends + Time Series Data**<br>
   [![Open Project Folder](https://img.shields.io/badge/Open-📁%20Folder-blue)](/day_75/main.py)
   [![Open Log File](https://img.shields.io/badge/Open-📝%20Log-orange)](/daily_logs/day_75.md)<br>
 Analyze and compare Google Trends search popularity with real-world time-series data such as Bitcoin prices, Tesla stock prices, and US unemployment rates.<br>
 **Stack used:** Python, Pandas, Matplotlib, time-series analysis, datetime indexes, resampling, NaN handling, Matplotlib Locators
 
-<details><summary>Show all logs</summary>  
 
 
 - **Day 74 - Analyze LEGO Dataset**<br>
